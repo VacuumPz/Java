@@ -9,10 +9,10 @@ import java.util.Arrays;
 class Lession3 {
     public static void main(String[] args) {
         arraySwitch();
-		arrayEmpty();
-		arrayLesser();
-		arraySquare();
-		arrayRequest(10, 2);
+	    arrayEmpty();
+	    arrayLesser();
+	    arraySquare();
+	    arrayRequest(10, 2);
 
     }
 
