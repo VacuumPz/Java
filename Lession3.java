@@ -19,7 +19,7 @@ class Lession3 {
     static void arraySwitch() {
 	    int[] arr = { 1, 1, 0, 0, 1, 0, 1, 1, 0, 0 };
 	    for (int i = 0; i < arr.length; i++) {
-	    arr[i] = 1 - arr[i];
+	        arr[i] = 1 - arr[i];
 	    }		
     }
 	
@@ -42,7 +42,7 @@ class Lession3 {
 		int dia = 1;
         for (int i = 0; i < 5; i++) {
             for (int j = 0; j < 5; j++) {
-            arr[i][j] = i == j || i == 4 - j ? dia : 0;
+                arr[i][j] = i == j || i == 4 - j ? dia : 0;
             }
         }		
     }
