@@ -1,5 +1,5 @@
 /**
- * Java 1. Homework 6
+ * Java 1. Homework 7
  *
  * @author Gleb
  * @version 28.10.2021
